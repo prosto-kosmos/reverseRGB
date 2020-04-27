@@ -1,0 +1,1 @@
+!reverseRGB !input.mp4 !output.mp4

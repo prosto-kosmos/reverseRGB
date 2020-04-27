@@ -1,0 +1,4 @@
+﻿  ffmpeg.cpp
+D:\temp\2020-04-18\ffmpeg1\ffmpeg\ffmpeg.cpp(98,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\temp\2020-04-18\ffmpeg1\ffmpeg\ffmpeg.cpp(131,16): warning C4018: <: несоответствие типов со знаком и без знака
+  ffmpeg.vcxproj -> D:\temp\2020-04-18\ffmpeg1\Debug\reverseRGB.exe
